@@ -1,0 +1,5 @@
+pyats==22.11
+python-dotenv==0.21.0
+influxdb_client==1.35.0
+genie==22.11
+pyats.contrib==22.11

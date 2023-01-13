@@ -1,0 +1,14 @@
+devices:
+    cat3650-1:
+        type: 'switch'
+        os: 'iosxe'
+        platform: cat3k
+        credentials:
+            default:
+                username: 
+                password: 
+        connections:
+            cli:
+                protocol: ssh
+                ip: ""
+
